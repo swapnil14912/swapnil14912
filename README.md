@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## About Me
+
+I am Swapnil Mishra, a React.js(Next.js) developer.
+
+## Technologies and Tools
+HTML   CSS   JavaScript   React.js   Next.js   Node.js   tailwindCSS   SCSS   Material-UI   Firebase
+
 <!--
 **swapnil14912/swapnil14912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
